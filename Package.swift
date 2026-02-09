@@ -1,10 +1,11 @@
+// swift-tools-version: 6.0
 import PackageDescription
 
 let package = Package(
-    name: "DragonSDK",
+    name: "PublicProducts",
     platforms: [
-        .iOS(.v13.6),
-        .macOS(.v10.13)
+        .iOS(.v13),
+        .macOS(.v11)
     ],
     products: [
         .library(
