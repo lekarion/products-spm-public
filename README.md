@@ -1,2 +1,2 @@
-# products-spm
-Product's SPM packages
+# products-spm-public
+Public product's SPM packages
