@@ -1,8 +1,8 @@
-// swift-tools-version: 6.0
+// swift-tools-version: 5.9
 import PackageDescription
 
 let package = Package(
-    name: "PublicProducts",
+    name: "lekarion.github.io",
     platforms: [
         .iOS(.v13),
         .macOS(.v11)
@@ -11,7 +11,7 @@ let package = Package(
         .library(
             name: "DragonSDK",
             targets: ["DragonSDK"]
-        ),
+        )
     ],
     targets: [
         .binaryTarget(
