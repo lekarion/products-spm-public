@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DragonSDK",
-            url: "https://lekarion.github.io/artifacts/DragonSDK.final/1.0.1.5/DragonSDK.xcframework.zip",
-            checksum: "6696019d5fd1804dc5ae33d17fb0e90c27c7bede0273620fdcb30d36949b8237"
+            url: "https://lekarion.github.io/artifacts/DragonSDK.final/1.0.1.6/DragonSDK.xcframework.zip",
+            checksum: "5119d6cb315bc0b0eb537fa53c711118cc61f21c8f3685a429889209f5ebc0d5"
         )
     ]
 )
